@@ -1,1 +1,1 @@
-# ArcoLinux-config for budgie
+# ArcoLinux-config
